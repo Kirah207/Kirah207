@@ -12,7 +12,7 @@
 
 I’m a **Cloud Security Architect** with a unique background in **Philosophy**, which inspires me to approach cybersecurity in a thoughtful and people-centered way.  
 
-🌸 I’m love helping businesses build **secure and scalable cloud environments**, while ensuring compliance with key industry standards like **NIST, ISO 27001**, and **SOC 2**.  
+🌸 I love helping businesses build **secure and scalable cloud environments**, while ensuring compliance with key industry standards like **NIST, ISO 27001**, and **SOC 2**.  
 🌸 I have a strong foundation in **AWS** and **Azure**, and I’m excited to be diving into **AI Security**, exploring how we can **safeguard AI systems** and protect data in this fast-paced digital world.  
 
 I believe in **making cybersecurity knowledge accessible**, breaking down complex concepts, and sharing them with others so that they can stay safe online.  
