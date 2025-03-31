@@ -1,8 +1,8 @@
 <h1 align="center">🌸 Hello, I'm Motunrayo Sanusi! ✨</h1>
 
 <p align="center">
-  <strong>Cloud Security Enthusiast | AI Security Advocate | Cyber Security Risk Analyst</strong>  
-  <br>Passionate about building secure cloud environments ☁️ | Protecting AI systems 🤖 | Managing cyber risks with a heart 💖  
+  <strong>Cloud Security Architect | AI Security Engineer | Cyber Security Risk Analyst</strong>  
+  <br>Building secure cloud environments ☁️ | Protecting AI systems 🤖 | Managing cyber risks💖  
   <br>Always evolving, learning, and growing.  
 </p>
 
@@ -10,9 +10,9 @@
 
 <h2>💖 A Little About Me</h2>  
 
-I’m a **Cloud Security Professional** with a unique background in **Philosophy**, which inspires me to approach cybersecurity in a thoughtful and people-centered way.  
+I’m a **Cloud Security Architect** with a unique background in **Philosophy**, which inspires me to approach cybersecurity in a thoughtful and people-centered way.  
 
-🌸 I’m deeply committed to helping businesses build **secure and scalable cloud environments**, all while ensuring compliance with key industry standards like **NIST, ISO 27001**, and **SOC 2**.  
+🌸 I’m love helping businesses build **secure and scalable cloud environments**, while ensuring compliance with key industry standards like **NIST, ISO 27001**, and **SOC 2**.  
 🌸 I have a strong foundation in **AWS** and **Azure**, and I’m excited to be diving into **AI Security**, exploring how we can **safeguard AI systems** and protect data in this fast-paced digital world.  
 
 I believe in **making cybersecurity knowledge accessible**, breaking down complex concepts, and sharing them with others so that they can stay safe online.  
@@ -21,9 +21,9 @@ I believe in **making cybersecurity knowledge accessible**, breaking down comple
 
 <h2>✨ Tech Stack</h2>  
 
-💻 **Cloud:** AWS ☁️ | Azure | Cloud Security Engineering  
-🔐 **Security:** Threat Analysis | Ethical Hacking | AI Security | Security Monitoring  
-📜 **Risk & Compliance:** Vendor Risk Management | GRC | Security Governance  
+💻 **Cloud:** AWS ☁️ | Azure | GCP  
+🔐 **Security:** Threat Analysis | Ethical Hacking | AI Security | Security Monitoring | Risk Analysis | Vulnerability Management 
+📜 **Risk & Compliance:** Vendor Risk Management |Security Governance  
 🤖 **Automation & AI:** AWS AI Services | Python 🐍 | Security Automation  
 
 ---
