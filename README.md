@@ -32,6 +32,7 @@ I believe in **making cybersecurity knowledge accessible**, breaking down comple
 
 ✅ **AWS Certified Cloud Practitioner**  
 ✅ **Azure Fundamentals**  
+✅ **AWS Certified Solutions Architect (Associate)**
 🎯 **(Upcoming) AWS Certified AI Practitioner**  
 🎯 **(Upcoming) CompTIA Security+**  
 📚 **Always learning and improving.**  
